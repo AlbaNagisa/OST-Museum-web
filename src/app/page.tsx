@@ -31,26 +31,26 @@ export default function Home() {
             />
             <Card
               name="James"
-              role="Level Design"
+              role="Level Designer"
               image="https://i.imgur.com/fZp3iru.jpg"
             />
           </div>
           <div className="xl:flex xl:flex-col">
             <Card
               name="Nathan"
-              role="Developpeur Unity"
+              role="D&eacute;veloppeur Unity"
               image="https://i.imgur.com/dj3lIBC.jpg"
             />
             <Card
               name="Nicolas"
-              role="Recherche d'assets"
+              role="Recherche d&apos;assets"
               image="https://i.imgur.com/tPO4rKv.jpg"
             />
           </div>
           <div className="xl:flex xl:flex-col">
             <Card
-              name="Cedric"
-              role="Integrateur Unity"
+              name="C&eacute;dric"
+              role="Int&eacute;grateur Unity"
               image="https://i.imgur.com/Gkz2lsY.png"
             />
           </div>
