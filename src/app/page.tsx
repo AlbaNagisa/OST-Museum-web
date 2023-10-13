@@ -16,7 +16,7 @@ export default function Home() {
         <Pitch />
         <div className="flex flex-col xl:flex-row justify-between mt-28 items-center w-full xl:h-full text-[20px]">
           <div className="flex w-[50%] bg-[#011936]  rounded-3xl p-4 items-center justify-center flex-col">
-            dautre text
+          Cet espace muséographique en deux dimensions permet de naviguer à travers différents univers de la pop culture. Cherchez les jukebox dans les différentes salles et interagissez avec eux afin de découvrir de nouvelles musiques ! Chaque jukebox a une playlist complètement différente, saurez-vous reconnaître tous les morceaux que vous écoutez ?
           </div>
           <div className="flex w-[50%] justify-center mt-28 xl:mt-0">
             <YouTube videoId="Y4tiL_-yEwc" onReady={onPlayerReady} />
